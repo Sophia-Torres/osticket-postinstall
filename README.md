@@ -162,6 +162,4 @@ Categorize tickets for easier triage.
 
 
 
-> 💬 Let me know if you'd like this guide split into beginner/advanced versions or tailored for video walk-throughs.
-
 
